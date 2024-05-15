@@ -59,8 +59,8 @@ body {
   box-shadow: 0px 5px 10px 0px #aaa;
   position: fixed;
   width: 100%;
-  background: #0f0d75;
-  color: #000;
+  background: #abaae2;
+  color: #09ac3f;
   opacity: 0.85;
   height: 50px;
   z-index: 12;
@@ -240,7 +240,7 @@ body {
 }
 
 .img-content h3 {
-  color: #fff;
+  color: #85636300;
   font-size: 2.2rem;
 }
 
@@ -354,7 +354,7 @@ body {
 
 .testimonial-box .testimonial-text {
   margin: 1rem 0;
-  color: #444;
+  color: #f16262;
 }
 
 .testimonial-box {
@@ -376,7 +376,7 @@ body {
 
 #contact {
   padding: 5rem 0;
-  background: rgb(235, 24, 24);
+  background: rgb(189, 74, 74);
 }
 
 .contact-container {
